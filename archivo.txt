@@ -1,4 +1,6 @@
-Hola que cuenta 
+import numpy as np
+import matplotlib.pylab as plt
 
+d=("Enlazando git online con el compu")
 
-aprendiendo a utilizar git 
+print(d)
